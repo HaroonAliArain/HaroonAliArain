@@ -15,7 +15,7 @@
 🌍 Building scalable apps with **Node.js | React.js | MongoDB | Express.js**  
 📚 Lifelong learner & problem solver  
 
-
+---
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack  
@@ -46,6 +46,22 @@
 
 ---
 
+<!-- Contribution Graph -->
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroonAliArain&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<!-- Most Used Languages -->
+## 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAliArain&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+
+---
+
 <!-- Connect -->
 ## 📫 Connect With Me  
 
@@ -57,4 +73,7 @@
 </p>
 
 ---
+<p align="center">
+  <h3 align="center"><b>Innovating one line of code at a time to build technologies that shape the future</b></h3>
+</p>
 
