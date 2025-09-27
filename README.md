@@ -15,16 +15,7 @@
 🌍 Building scalable apps with **Node.js | React.js | MongoDB | Express.js**  
 📚 Lifelong learner & problem solver  
 
----
 
-<!-- Big Developer Picture -->
-<!-- Big Web Developer Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HaroonAliArain/HaroonAliArain/main/assets/developer-coding.png" alt="Developer Coding" width="70%" />
-</p>
-
-
----
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack  
