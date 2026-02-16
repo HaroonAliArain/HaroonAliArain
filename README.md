@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HaroonAliArain&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaroonAliArain&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonAliArain&theme=radical" height="180" />
 </p>  
 
@@ -57,7 +57,7 @@
 <!-- Most Used Languages -->
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HaroonAliArain&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonAliArain&theme=tokyonight" height="180"/>
 </p>
 
 ---
