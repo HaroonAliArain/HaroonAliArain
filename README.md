@@ -19,151 +19,119 @@
 
 ## 🌟 About Me
 
-I'm **Haroon Ali**, an undergraduate Software Engineering student at **MUET SZAB** and a self-driven **MERN Stack Developer**. I've been building full-stack web applications hands-on — learning by doing, shipping real projects, and constantly pushing myself to write better, cleaner code.
+I'm **Haroon Ali**, a Software Engineering student at **MUET SZAB** and a passionate **MERN Stack Developer**. I specialize in building responsive full-stack web applications, scalable REST APIs, and multi-tenant SaaS architectures with clean, maintainable code.
 
-My day-to-day revolves around **React.js** on the frontend and **Node.js + Express.js** on the backend, with **MongoDB** as my go-to database. I enjoy the entire process — from designing APIs and database schemas to building responsive UIs and deploying everything to production.
-
-Right now, I'm focused on building a **multi-tenant SaaS application** where I'm working with role-based access, third-party API integrations, and learning how to architect software that scales for multiple clients from a single codebase.
-
-I'm not someone who claims to know everything — but I am someone who shows up every day, learns what's needed, and builds things that work. That's what drives me.
-
-- 🔭 **Currently building:** A tenant-based **SaaS application** with third-party API integrations and role-based access control
-- 📚 **Currently learning:** Advanced system design patterns, payment gateway integrations, and real-time communication
-- 🤝 **Open to:** Collaborations, freelance projects, and opportunities where I can contribute and grow
-- ⚡ **Mindset:** *"Learn by building. Ship it. Improve it. Repeat."*
+- 💻 **Core Stack:** React.js · Node.js · Express.js · MongoDB · WebSockets · Stripe
+- 🎓 **Education:** Undergraduate Software Engineering Student @ MUET SZAB
+- 🎯 **Current Focus:** Building multi-tenant SaaS applications with third-party API integrations & real-time communication systems
 
 ---
 
-## 🏆 Projects I've Built
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🛒-E--Commerce_Platform-FF6B6B?style=for-the-badge" /><br/><br/>
-      <p align="left">
-        <b>Full-Stack E-Commerce Store</b><br/>
-        Built a complete online shopping platform using the MERN stack. Users can browse products, add items to cart, and complete purchases. Includes an admin panel for managing products, orders, and users. Integrated Stripe for payment processing and implemented JWT-based authentication for secure access.
+    <td width="50%" valign="top">
+      <h3>💬 Chat APP</h3>
+      <p>Real-time instant messaging web app powered by Socket.io and Redis caching, offering low-latency private/group messaging, online status indicators, and media sharing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <p align="left"><b>Tech:</b> React.js · Node.js · Express.js · MongoDB · Stripe · JWT</p>
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/💬-Real--Time_Chat_App-4ECDC4?style=for-the-badge" /><br/><br/>
-      <p align="left">
-        <b>Real-Time Chat Application</b><br/>
-        Developed a messaging app where users can send and receive messages instantly using WebSockets. Features include private and group conversations, online status indicators, and message history. Built the backend with Socket.io for real-time communication and MongoDB for storing chat data.
+    <td width="50%" valign="top">
+      <h3>📝 Blog Website</h3>
+      <p>A full-stack MERN blogging platform with JWT authentication, rich article publishing, instant search, interactive comment threads, and a comprehensive admin management dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
-      <p align="left"><b>Tech:</b> React.js · Node.js · Express.js · MongoDB · Socket.io</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📝-Blog_Platform-A855F7?style=for-the-badge" /><br/><br/>
-      <p align="left">
-        <b>Blog Platform with CMS</b><br/>
-        Created a blog application where users can register, write posts, edit content, and leave comments. Implemented role-based access so admins can manage all content while regular users can manage their own posts. Added features like categories, tags, and a clean reading experience.
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce Website</h3>
+      <p>Full-stack MERN online store featuring secure Stripe checkout, dynamic product catalog search/filters, cart persistence, JWT role-based access, and an admin order dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <p align="left"><b>Tech:</b> React.js · Node.js · Express.js · MongoDB · REST API</p>
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🤖-Nexus_AI_Dashboard-00C9FF?style=for-the-badge" /><br/><br/>
-      <p align="left">
-        <b>Nexus AI Dashboard</b><br/>
-        Built an analytics-style dashboard interface with a modern UI, data visualization components, and interactive charts. The dashboard presents data in a clean, organized layout with cards, graphs, and summary widgets. Focused on creating a polished frontend experience with responsive design.
+    <td width="50%" valign="top">
+      <h3>🤖 Nexus AI</h3>
+      <p>Unified 6-in-1 AI productivity workspace featuring AI Chatbot, Image Vision Analyzer, Text-to-Speech Generator, Code Assistant, Brainstormer, and Content Summarizer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <p align="left"><b>Tech:</b> React.js · CSS · Chart Libraries · Responsive Design</p>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>...and several more projects covering authentication systems, CRUD apps, and API integrations.</i></p>
-
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend
+#### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" height="45" />
 </p>
 
-> React.js · JavaScript (ES6+) · HTML5 · CSS3 · Bootstrap · Tailwind CSS · Responsive Design · Figma
-
----
-
-### ⚙️ Backend
+#### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" height="45" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" height="45" alt="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io" />
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" height="40" alt="Stripe" />
 </p>
 
-> Node.js · Express.js · REST APIs · GraphQL · Stripe Integration · Socket.io · JWT Authentication · Middleware Design
-
----
-
-### 🗄️ Databases
+#### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
 </p>
 
-> MongoDB · Mongoose ODM · MySQL · Firebase (Firestore & Realtime DB) · Schema Design · Aggregation Pipelines
-
----
-
-### ☁️ Deployment Platforms
+#### ☁️ Deployment Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" height="45" />
 </p>
 
-> Vercel · Netlify · Render · Environment Configuration · Domain Setup
-
----
-
-### 🧰 Tools & Workflow
+#### 🧰 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
 </p>
 
-> Git · GitHub · VS Code · Postman · npm · API Testing · Version Control
-
----
-
-### 💡 Soft Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧩_Problem_Solving-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👥_Leadership-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Team_Work-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🗣️_Communication-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📐_Analytical_Thinking-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⏰_Time_Management-2D3748?style=for-the-badge" />
+#### 💡 Extra Skills
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-🧩-1E293B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-👥-1E293B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-🤝-1E293B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-🗣️-1E293B?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 📚 What I'm Currently Working On
+## ⚡ Currently Working On
 
-| Area | What I'm Doing |
-|---|---|
-| 🏗️ **Multi-Tenant SaaS** | Building a tenant-based SaaS application with isolated data, role-based access, and third-party API integrations |
-| 💳 **Payment Integration** | Learning and implementing Stripe for handling payments, subscriptions, and checkout flows |
-| 💬 **Real-Time Features** | Working with Socket.io to add live messaging and notification features into applications |
-| 🤖 **AI Integration** | Exploring how to integrate AI-powered chatbot features into web applications |
-| ☁️ **Deployment** | Getting comfortable deploying full-stack apps on Render, Vercel, and Netlify |
+- 🏗️ **Tenant-based SaaS Application** — Multi-tenant architecture with third-party API integration
+- 💳 **Payment Gateway Integration** — Stripe & PayPal automated checkout flows
+- 💬 **Real-Time Systems** — Socket.io real-time chat & notifications
+- 🤖 **AI Integrations** — Smart AI chatbots & automated workflows
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroonAliArain&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=HaroonAliArain&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroonAliArain&theme=radical" width="100%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaroonAliArain&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonAliArain&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
@@ -171,7 +139,7 @@ I'm not someone who claims to know everything — but I am someone who shows up 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroonAliArain&bg_color=141321&color=a9fef7&line=f8d847&point=f7f7f7&area=true&area_color=fe428e&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroonAliArain&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -179,7 +147,7 @@ I'm not someone who claims to know everything — but I am someone who shows up 
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonAliArain&theme=radical" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonAliArain&theme=radical" height="200" alt="Repos per language"/>
 </p>
 
 ---
@@ -192,14 +160,10 @@ I'm not someone who claims to know everything — but I am someone who shows up 
   <a href="https://github.com/HaroonAliArain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  💬 <i>I'm always open to connecting, collaborating, or just having a good conversation about tech. Feel free to reach out!</i>
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Learning+every+day%2C+building+every+week;Turning+ideas+into+real+working+products;One+project+at+a+time%2C+getting+better+each+day" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Innovating+one+line+of+code+at+a+time+to+build+technologies+that+shape+the+future" alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
